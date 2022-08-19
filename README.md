@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @skyzmdm157
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-skyzmdm157/skyzmdm157 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Sobre Mim
+- 👋 Olá meu nome é @skyzmdm157.
+- 👀 Meu email de contato é joao.ferreira.domingues@escola.pr.gov.br
+- 🌱 Eu estou interessado em aprendera programar novas linguagens.
+- 💞️ Eu estou aprendendo a programar recentemente a liguagem de JavaScript e scratch.
